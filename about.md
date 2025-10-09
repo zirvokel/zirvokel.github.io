@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I’m passionate about everything related, directly or indirectly, to Microsoft technologies and services such as Active Directory, MECM, and Microsoft Azure. I’m also deeply interested in the internal workings of Windows, a skill commonly referred to as Windows Internals, and in the potential abuses of some of its features. I’d like to give a shout-out to **Pavel Yosifovich** and **Uriel Kosayev** for their absolutely outstanding work. I also aim to become a Microsoft MVP, it’s a personal goal of mine.
