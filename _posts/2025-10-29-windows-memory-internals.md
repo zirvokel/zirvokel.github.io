@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "Windows Memory Internals: VADs, PTE/PFN Database, Working Sets, Paging & NUMA"
+title: "Windows 11 Memory Internals: VADs, PTE/PFN, Working Sets, Compression & NUMA"
 categories: windows
 ---
